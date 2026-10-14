@@ -1,0 +1,4 @@
+interface:
+  display_name: "swdocumentation"
+  short_description: "Requisitos, MVP e documentação de software versionada"
+  default_prompt: "Use $swdocumentation para conversar comigo sobre o projeto, definir requisitos e MVP e manter a documentação versionada."
